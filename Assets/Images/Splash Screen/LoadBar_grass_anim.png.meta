@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 5f4628b57cf6b4f389ebb3d49c217180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8369635674619490452
+    second: LoadBar_grass_anim_0
+  - first:
+      213: -7499983257348099646
+    second: LoadBar_grass_anim_1
+  - first:
+      213: 7561356384242231073
+    second: LoadBar_grass_anim_2
+  - first:
+      213: -2925615794702787561
+    second: LoadBar_grass_anim_3
+  - first:
+      213: 7233380850516134634
+    second: LoadBar_grass_anim_4
+  - first:
+      213: 1391301834519968385
+    second: LoadBar_grass_anim_5
+  - first:
+      213: -8607619917289772090
+    second: LoadBar_grass_anim_6
+  - first:
+      213: 6618936237754097792
+    second: LoadBar_grass_anim_7
+  - first:
+      213: 7169091491782410454
+    second: LoadBar_grass_anim_8
+  - first:
+      213: 7592081855793778709
+    second: LoadBar_grass_anim_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4edab2b419db80800000000000000
+      internalID: -8369635674619490452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b36cc6f4bae790800000000000000
+      internalID: -7499983257348099646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127e3e6d1955fe860800000000000000
+      internalID: 7561356384242231073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd77f6fef1667d0800000000000000
+      internalID: -2925615794702787561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea80283f81226460800000000000000
+      internalID: 7233380850516134634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a79e5a5a5ee4310800000000000000
+      internalID: 1391301834519968385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbad545a479b8880800000000000000
+      internalID: -8607619917289772090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802b4a807f2bdb50800000000000000
+      internalID: 6618936237754097792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.7
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d047f17ababd7360800000000000000
+      internalID: 7169091491782410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadBar_grass_anim_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.699997
+        width: 314
+        height: 71.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d648293e7c5960800000000000000
+      internalID: 7592081855793778709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
