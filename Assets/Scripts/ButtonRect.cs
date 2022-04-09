@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -5,8 +7,8 @@ public class ButtonRect : MonoBehaviour
 {
     public float AlphaThreshold = 0.1f;
 
-    private void Start()
+    void Start()
     {
-        GetComponent<Image>().alphaHitTestMinimumThreshold = AlphaThreshold;
+        this.GetComponent<Image>().alphaHitTestMinimumThreshold = AlphaThreshold;
     }
 }
