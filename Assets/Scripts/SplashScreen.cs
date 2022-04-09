@@ -1,6 +1,4 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
@@ -12,31 +10,24 @@ public class SplashScreen : MonoBehaviour
     [SerializeField] float waitTime = 12f;
     [SerializeField] TextMeshProUGUI buttonText;
     [SerializeField] Button button;
-    [SerializeField] GameObject loading;
 
     // Dynamic Variables
     AudioSource audioSource;
-    Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        animator = loading.GetComponent<Animator>();
         PlayThemeMusic();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Time.time >= waitTime)
-        {
-            UpdateButtonText();
-            button.GetComponent<Button>().enabled = true;
-            animator.speed = 0;
-        }
+        StartCoroutine(LoadingFreeze());
     }
 
+    // Private Methods
     private void PlayThemeMusic()
     {
         audioSource.Play();
@@ -46,5 +37,15 @@ public class SplashScreen : MonoBehaviour
     void UpdateButtonText()
     {
         buttonText.text = "Click Here to Start";
+    }
+
+    // Public Mehthods
+
+    // Coroutines
+    IEnumerator LoadingFreeze()
+    {
+        yield return new WaitForSeconds(waitTime);
+        UpdateButtonText();
+        button.GetComponent<Button>().enabled = true;
     }
 }
