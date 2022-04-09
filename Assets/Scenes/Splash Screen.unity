@@ -786,10 +786,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicVolume: 0.5
-  waitTime: 13.2
+  waitTime: 6.2
   buttonText: {fileID: 1107961358}
   button: {fileID: 876886820}
-  loading: {fileID: 827651587}
 --- !u!82 &1868119473
 AudioSource:
   m_ObjectHideFlags: 0

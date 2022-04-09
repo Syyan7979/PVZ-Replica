@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 6dedcb8bcfd724e0c92bfc72f17645b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5320708908934723546
+    second: Chomper_Eat_0
+  - first:
+      213: 4693562913462508311
+    second: Chomper_Eat_1
+  - first:
+      213: 7288220141369330214
+    second: Chomper_Eat_2
+  - first:
+      213: -12112458800309192
+    second: Chomper_Eat_3
+  - first:
+      213: 2841809772058767815
+    second: Chomper_Eat_4
+  - first:
+      213: -2412486646670140499
+    second: Chomper_Eat_5
+  - first:
+      213: -1383986382045103536
+    second: Chomper_Eat_6
+  - first:
+      213: 6939368541222173747
+    second: Chomper_Eat_7
+  - first:
+      213: -8749952082382874080
+    second: Chomper_Eat_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chomper_Eat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4679561, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62880b9007b0926b0800000000000000
+      internalID: -5320708908934723546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.32185125, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b51eb2a92e22140800000000000000
+      internalID: 4693562913462508311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30231014, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8a2b9a95f42560800000000000000
+      internalID: 7288220141369330214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3623062, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd9db68c7f4dff0800000000000000
+      internalID: -12112458800309192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4
+        width: 34
+        height: 47
+      alignment: 9
+      pivot: {x: 0.42742425, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1fbce5ee2207720800000000000000
+      internalID: 2841809772058767815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.44416723, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5adf3d20258ed0800000000000000
+      internalID: -2412486646670140499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.41448888, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a393cd7b71bcce0800000000000000
+      internalID: -1383986382045103536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.425214, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c71110ce69d4060800000000000000
+      internalID: 6939368541222173747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_Eat_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41456038, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a11e7b0fce19680800000000000000
+      internalID: -8749952082382874080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
