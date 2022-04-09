@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 0f55e67ede6404fd9a8df841e3132cfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8180176760556525139
+    second: Pole_Vaulting_Zombie_Run_0_0
+  - first:
+      213: -31623001298781935
+    second: Pole_Vaulting_Zombie_Run_0_1
+  - first:
+      213: -7783513745358548791
+    second: Pole_Vaulting_Zombie_Run_0_2
+  - first:
+      213: -4965489717137423093
+    second: Pole_Vaulting_Zombie_Run_0_3
+  - first:
+      213: 368762469437696171
+    second: Pole_Vaulting_Zombie_Run_0_4
+  - first:
+      213: 5018874889273479335
+    second: Pole_Vaulting_Zombie_Run_0_5
+  - first:
+      213: -5204753144264403152
+    second: Pole_Vaulting_Zombie_Run_0_6
+  - first:
+      213: 9109683164476856048
+    second: Pole_Vaulting_Zombie_Run_0_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35690ec5c63d58170800000000000000
+      internalID: 8180176760556525139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119bad04c07af8ff0800000000000000
+      internalID: -31623001298781935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09887cc776bf390800000000000000
+      internalID: -7783513745358548791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054b2a1969071bb0800000000000000
+      internalID: -4965489717137423093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8645d138b1e1500800000000000000
+      internalID: 368762469437696171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01643ee10a6a540800000000000000
+      internalID: 5018874889273479335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d58c579005c7b0800000000000000
+      internalID: -5204753144264403152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_Vaulting_Zombie_Run_0_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6dffaa2981c6e70800000000000000
+      internalID: 9109683164476856048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
